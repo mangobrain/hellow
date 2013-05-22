@@ -1,2 +1,3 @@
-im in ur repos
-changin ur filez
+There is a whole art to producing good changelogs, which I will not even
+attempt to cover here.  For now, it will suffice to say that "autoreconf -fi"
+will barf if this file is not present.

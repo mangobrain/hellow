@@ -1,3 +1,5 @@
 Philip Allison <mangobrain@googlemail.com>
 
 http://mangobrain.co.uk/
+
+NB: "autoreconf -fi" will barf if this file is not present.
