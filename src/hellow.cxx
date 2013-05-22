@@ -1,6 +1,10 @@
 #include <iostream>
 
+#include <boost/lexical_cast.hpp>
+
 int main()
 {
-	std::cout << "Hello, world!" << std::endl;
+	int foo = boost::lexical_cast<int>("42");
+	std::cout << "Casting is fun! " << foo << std::endl;
+	return 0;
 }
